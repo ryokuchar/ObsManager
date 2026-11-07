@@ -1,0 +1,85 @@
+THIRD-PARTY NOTICES FOR ObsManager v1.0.0
+
+ObsManager includes third-party software. The copyright notices and
+license terms for that software are preserved in the licenses directory.
+The original license and notice text controls if this index differs from it.
+
+ObsManager itself is Copyright (c) 2026 ryokuchar and is licensed under
+the MIT License. See licenses/ObsManager-MIT.txt for the complete terms.
+
+DISTRIBUTED COMPONENTS
+
+Microsoft.WindowsAppSDK 2.4.0
+  licenses/Microsoft-Windows-App-SDK-LICENSE.txt
+  licenses/Microsoft-Windows-App-SDK-NOTICE.txt
+
+Microsoft.WindowsAppSDK.Base 2.0.4
+  licenses/Microsoft-Windows-App-SDK-Base-NOTICE.txt
+
+Microsoft.WindowsAppSDK.Runtime 2.4.0
+  licenses/Microsoft-Windows-App-SDK-Runtime-NOTICE.txt
+
+Microsoft.WindowsAppSDK.WinUI 2.3.6
+  licenses/Microsoft-Windows-App-SDK-WinUI-NOTICE.txt
+
+Microsoft.WindowsAppSDK.ML 2.1.74
+  licenses/Microsoft-Windows-App-SDK-ML-LICENSE.txt
+  licenses/Microsoft-Windows-App-SDK-ML-THIRD-PARTY-NOTICES.txt
+
+Microsoft.Windows.AI.MachineLearning 2.1.74
+  licenses/Microsoft-Windows-AI-MachineLearning-LICENSE.txt
+  licenses/Microsoft-Windows-AI-MachineLearning-THIRD-PARTY-NOTICES.txt
+
+Microsoft.Web.WebView2 1.0.3719.77
+  licenses/Microsoft-WebView2-LICENSE.txt
+  licenses/Microsoft-WebView2-NOTICE.txt
+
+Microsoft.NETCore.App.Runtime.win-x64 10.0.11
+  licenses/dotnet-runtime-LICENSE.txt
+  licenses/dotnet-runtime-THIRD-PARTY-NOTICES.txt
+
+System.Drawing.Common 10.0.11
+  licenses/dotnet-libraries-MIT.txt
+  licenses/System-Drawing-Common-THIRD-PARTY-NOTICES.txt
+
+System.Numerics.Tensors 9.0.0
+  licenses/System-Numerics-Tensors-LICENSE.txt
+  licenses/System-Numerics-Tensors-THIRD-PARTY-NOTICES.txt
+
+Microsoft.Win32.SystemEvents 10.0.11
+  licenses/dotnet-libraries-THIRD-PARTY-NOTICES.txt
+
+System.CodeDom 10.0.11
+  licenses/dotnet-libraries-THIRD-PARTY-NOTICES.txt
+
+System.Management 10.0.11
+  licenses/dotnet-libraries-THIRD-PARTY-NOTICES.txt
+
+System.Security.Cryptography.ProtectedData 10.0.11
+  licenses/dotnet-libraries-THIRD-PARTY-NOTICES.txt
+
+The following packages share licenses/Microsoft-Windows-App-SDK-LICENSE.txt
+and licenses/Microsoft-Windows-App-SDK-NOTICE.txt:
+  Microsoft.WindowsAppSDK.AI 2.4.4
+  Microsoft.WindowsAppSDK.Base 2.0.4
+  Microsoft.WindowsAppSDK.DWrite 2.1.0
+  Microsoft.WindowsAppSDK.Foundation 2.3.9
+  Microsoft.WindowsAppSDK.InteractiveExperiences 2.1.6
+  Microsoft.WindowsAppSDK.Runtime 2.4.0
+  Microsoft.WindowsAppSDK.Search 2.4.4
+  Microsoft.WindowsAppSDK.Widgets 2.0.5
+  Microsoft.WindowsAppSDK.WinUI 2.3.6
+
+The System.* and Microsoft.Win32.SystemEvents packages listed above are
+licensed under the MIT terms in licenses/dotnet-libraries-MIT.txt. Their
+applicable third-party notices are preserved in the corresponding notice files.
+
+Windows .NET runtime binaries coreclr.dll and Microsoft.DiaSymReader.Native.amd64.dll
+are also covered by licenses/Microsoft-NET-Library-License.txt.
+Microsoft.Windows.SDK.NET.dll and WinRT.Runtime.dll are covered by the
+Windows SDK terms in licenses/Microsoft-Windows-SDK-License.txt. The
+original RTF is included alongside the text copy. The C#/WinRT source
+license is preserved in licenses/CsWinRT-MIT.txt.
+
+Build-only and test-only packages are not copied into the binary distribution
+and are therefore not listed here.
