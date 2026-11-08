@@ -1,6 +1,9 @@
 # ObsManager
 ObsManager is a Windows 11 x64 tray app that manages the OBS Studio Replay Buffer for registered games. You can enable Replay Buffer integration per game and launch games from custom shortcuts.
 
+<img src="https://github.com/ryokuchar/ObsManager/blob/main/StatusAndActions.png" width="40%"> <img src="https://github.com/ryokuchar/ObsManager/blob/main/Games.png" width="54%">
+
+
 ## Download
 Open **Releases** and download from **Assets**. Extract the entire ZIP and run `ObsManager.exe` from the extracted folder. The required .NET and Windows App SDK runtimes are bundled. Install OBS Studio separately.
 This build is unsigned, so Windows SmartScreen may display a warning. The first public release does not support migrating settings from development builds.
